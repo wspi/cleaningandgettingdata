@@ -61,4 +61,4 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 # Transformations
-Merging training and tessting data sets creating a dataset called tidy_data. Then create another dataset from the mean and std information.
+Merging training and tessting data sets creating a dataset called tidy_data. Then create another dataset using the mean and std information.
